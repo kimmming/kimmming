@@ -1,4 +1,5 @@
 ### Hi there 👋
+### https://devmingz.notion.site/ITS-ME-cd33d8334e654fb9ad65b3e4062b8356 
 
 <!--
 **kimmming/kimmming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
