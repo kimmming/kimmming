@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-### <a href="https://devmingz.notion.site/ITS-ME-cd33d8334e654fb9ad65b3e4062b8356"><img src="https://pbs.twimg.com/profile_images/1510138251889328128/mCjpYHqx_400x400.png"/>Notion</a>
+### <a href="https://devmingz.notion.site/ITS-ME-cd33d8334e654fb9ad65b3e4062b8356"><img src="https://pbs.twimg.com/profile_images/1510138251889328128/mCjpYHqx_200x200.png"/></a>
 
 <!--
 **kimmming/kimmming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
